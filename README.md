@@ -27,5 +27,6 @@ Features:-
 
 ![Alt text](Screenshot_20160803-223945.png?raw=true "Optional Title")
 
-
+## License 
+* see [LICENSE](/LICENSE) file
         
